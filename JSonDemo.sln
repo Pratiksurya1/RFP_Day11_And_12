@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSonDemo", "JSonDemo.csproj", "{DE2A7438-56A7-4F5E-BE52-BFAAC58E9D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2A7438-56A7-4F5E-BE52-BFAAC58E9D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2A7438-56A7-4F5E-BE52-BFAAC58E9D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2A7438-56A7-4F5E-BE52-BFAAC58E9D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2A7438-56A7-4F5E-BE52-BFAAC58E9D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B939FB2E-F150-4234-81A0-0E9BFA98DC85}
+	EndGlobalSection
+EndGlobal

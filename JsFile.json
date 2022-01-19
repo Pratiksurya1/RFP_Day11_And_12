@@ -1,0 +1,54 @@
+﻿{
+  "TypesOfRice": [
+    {
+      "name": "Basumathi",
+      "weight": 5,
+      "price": 220
+    },
+    {
+      "name": "Jasmine Rice",
+      "weight": 10,
+      "price": 120
+    },
+    {
+      "name": "Brown Rice",
+      "weight": 20,
+      "price": 350
+    }
+  ],
+
+  "TypesOfPulses": [
+    {
+      "name": "Green gram",
+      "weight": 15,
+      "price": 320
+    },
+    {
+      "name": "Green peas",
+      "weight": 5,
+      "price": 120
+    },
+    {
+      "name": "Red Kidney",
+      "weight": 35,
+      "price": 160
+    }
+  ],
+  "TypesOfWheats": [
+    {
+      "name": "Khapli wheat",
+      "weight": 8,
+      "price": 120
+    },
+    {
+      "name": "Sharbati wheat",
+      "weight": 10,
+      "price": 180
+    },
+    {
+      "name": "Durum Wheat",
+      "weight": 18,
+      "price": 250
+    }
+  ]
+}
